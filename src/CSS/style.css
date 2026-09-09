@@ -77,6 +77,16 @@ nav ul li a:hover{
     background: var(--btn-color);
     border-radius: 10px;
 }
+/* ESTILIZAÇÃO SLIDESHOW */
+#banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imgBanner{
+    width:600px;
+    height:600px;
+}
 footer{
     text-align: center;
     padding: 40px;
